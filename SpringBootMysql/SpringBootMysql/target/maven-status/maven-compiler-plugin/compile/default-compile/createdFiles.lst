@@ -1,0 +1,12 @@
+com\dev\SpringBootMysql\model\Vehicule.class
+com\dev\SpringBootMysql\SpringBootMysqlApplication.class
+com\dev\SpringBootMysql\repository\CursantiRepository.class
+com\dev\SpringBootMysql\repository\ProgramareExamenRepository.class
+com\dev\SpringBootMysql\repository\VehiculeRepository.class
+com\dev\SpringBootMysql\model\Instructori.class
+com\dev\SpringBootMysql\repository\InstructoriRepository.class
+com\dev\SpringBootMysql\model\Cursanti.class
+com\dev\SpringBootMysql\repository\PlataCursantiRepository.class
+com\dev\SpringBootMysql\model\PlataCursanti.class
+com\dev\SpringBootMysql\controller\MainController.class
+com\dev\SpringBootMysql\model\ProgramareExamen.class
